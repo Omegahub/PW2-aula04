@@ -1,3 +1,5 @@
+"use strict";
+exports.__esModule = true;
 var viagem = /** @class */ (function () {
     //  TempoGasto: number
     // velocidadeMedia: number
@@ -15,3 +17,4 @@ var viagem = /** @class */ (function () {
     };
     return viagem;
 }());
+exports.viagem = viagem;

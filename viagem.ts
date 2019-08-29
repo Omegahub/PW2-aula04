@@ -1,4 +1,4 @@
-class viagem
+export class viagem
 {
     //  TempoGasto: number
     // velocidadeMedia: number
